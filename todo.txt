@@ -1,0 +1,3 @@
+Add in tiered system for maximum fat loss rate (10kcal/lb fat -> 20kcal/lb fat -> 30kcal/lb fat)
+Add in calorie intake as a parameter in build config
+Design and implement validate()
